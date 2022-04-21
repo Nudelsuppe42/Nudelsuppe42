@@ -7,20 +7,11 @@ My name is Theo, I´m a developer from Germany. Currently im working on [TheSubt
 [![My Socials](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nudelsuppe_42_/)
 
 ## Skills
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,ts)](https://github.com/Nudelsuppe42)
-#### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://github.com/Nudelsuppe42)
-
-### Libaries
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,svelte,electron,express,nextjs,bootstrap,)](https://github.com/Nudelsuppe42)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,docker,bash,)](https://github.com/Nudelsuppe42)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,ts,mysql,electron,react,express,nextjs,git)](https://github.com/Nudelsuppe42)
 
 ### Software
 
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,androidstudio,idea,vscode)](https://github.com/Nudelsuppe42)
+[![My Skills](https://skillicons.dev/icons?i=figma,blender,androidstudio,idea,vscode,ai,ps)](https://github.com/Nudelsuppe42)
 
 ## Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=Nudelsuppe42)](https://github.com/anuraghazra/github-readme-stats)
