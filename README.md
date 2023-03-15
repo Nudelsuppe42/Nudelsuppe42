@@ -1,5 +1,5 @@
 Hey!
-My name is Theo, I´m a developer from Germany. Currently im working on [TheSubtitlePlug](https://github.com/orgs/TheSubtitlePlug) and [BuildTheEarth](https://buildtheearth.net). If you would like to contact me, you can do so on any social Media listed below.
+My name is Theo, I´m a developer from Germany. Currently im currently working on  [BuildTheEarth](https://buildtheearth.net). If you would like to contact me, you can do so on any social Media listed below.
 
 ##  Socials
 [![My Socials](https://skillicons.dev/icons?i=discord)](Nudelsuppe_42_#3571)
