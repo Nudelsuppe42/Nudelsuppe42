@@ -64,11 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Nudelsuppe42/Nudelsuppe42/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/Nudelsuppe_42_">
